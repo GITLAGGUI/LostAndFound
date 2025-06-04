@@ -1,0 +1,22 @@
+{
+  "name": "FindIt - Lost & Found Platform",
+  "short_name": "FindIt",
+  "description": "AI-powered platform to report and find lost items, pets, and people with image recognition and smart matching.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

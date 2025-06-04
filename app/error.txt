@@ -1,0 +1,15 @@
+Console Error
+
+
+Supabase error creating profile: {}
+
+Call Stack
+6
+
+Show 3 ignore-listed frame(s)
+UserService.createUserProfile
+.next\static\chunks\_844a7fc0._.js (233:25)
+async UserService.signUpWithEmail
+.next\static\chunks\_844a7fc0._.js (293:39)
+async handleEmailSignUp
+.next\static\chunks\_844a7fc0._.js (542:28)
