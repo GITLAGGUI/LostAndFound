@@ -1,3 +1,0 @@
-variables:
-  mode: ACT
-model: anthropic/claude-sonnet-4
